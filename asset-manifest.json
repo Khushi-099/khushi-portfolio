@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khushi-portfolio/static/css/main.023ccc04.css",
+    "main.js": "/khushi-portfolio/static/js/main.a7b7d58e.js",
+    "index.html": "/khushi-portfolio/index.html",
+    "main.023ccc04.css.map": "/khushi-portfolio/static/css/main.023ccc04.css.map",
+    "main.a7b7d58e.js.map": "/khushi-portfolio/static/js/main.a7b7d58e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.023ccc04.css",
+    "static/js/main.a7b7d58e.js"
+  ]
+}
