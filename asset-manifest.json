@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/khushi-portfolio/static/css/main.37a85321.css",
-    "main.js": "/khushi-portfolio/static/js/main.9aa67a89.js",
+    "main.js": "/khushi-portfolio/static/js/main.344a6e4b.js",
     "index.html": "/khushi-portfolio/index.html",
     "main.37a85321.css.map": "/khushi-portfolio/static/css/main.37a85321.css.map",
-    "main.9aa67a89.js.map": "/khushi-portfolio/static/js/main.9aa67a89.js.map"
+    "main.344a6e4b.js.map": "/khushi-portfolio/static/js/main.344a6e4b.js.map"
   },
   "entrypoints": [
     "static/css/main.37a85321.css",
-    "static/js/main.9aa67a89.js"
+    "static/js/main.344a6e4b.js"
   ]
 }
